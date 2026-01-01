@@ -10,12 +10,15 @@ CODE in main.py for API
 
 uv run uvicorn main:app --reload  (for activley reload browser responce)
 
-/pytest
+===create pytest skills using skill-creater skill===
+
+# Now Test
 
 
- Bash command
+#### Bash command
 
-   cd /mnt/d/code/claude-code-skills-lab-main/task-test && uv run pytest tests/ -v --cov=. --cov-report=term-missing
+   ```cd /mnt/d/code/claude-code-skills-lab-main/task-test && uv run pytest tests/ -v --cov=. --cov-report=term-missing```
+
 
 
 
